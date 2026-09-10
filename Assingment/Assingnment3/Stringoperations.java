@@ -29,7 +29,7 @@ public class Stringoperations {
 
         // 8. equalsIgnoreCase()
         System.out.println("Equals Ignore Case: " +str1.equalsIgnoreCase("hello java"));
-                           ;
+                           
 
         // 9. contains()
         System.out.println("Contains Java: " + str1.contains("Java"));
